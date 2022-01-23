@@ -1,0 +1,8 @@
+/*************** font-family *************************/
+body{
+    font-family: 'Noto Serif', serif;
+    background-color:rgb(255, 246, 246);
+}
+h1{
+    color: red;
+}
