@@ -2,9 +2,13 @@
 body{
     font-family: 'Noto Serif', serif;
 }
-/* .footer-part{
-    height: 300px;
-} */
-#masud{
-    justify-content: end;
+.Ctext-color{
+    color: rgb(61, 32, 83);
+
+}
+.Cbgcolor{
+    background-color: rgba(236, 226, 226, 0.849);
+}
+.Cbgcolor2{
+  background-color: rgba(110, 103, 204, 0.836);
 }
